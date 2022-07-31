@@ -1,0 +1,18 @@
+# Changes here will be overwritten by Copier
+_commit: 0.21.0
+_src_path: git@github.com:STATWORX/statworx-project-template.git
+author_email: anhoang31415@gmail.com
+author_fullname: An Hoang
+ci: github
+client_name: Statworx
+git_repository: ''
+orchestrator: none
+package_name: nbenumerate
+project_description: Automatically enumerate the markdown titles in jupyter notebooks
+project_name: nbenumerate
+python_version: 3.8.9
+test_windows: false
+use_direnv: true
+use_docker: false
+use_jupyterlab: false
+

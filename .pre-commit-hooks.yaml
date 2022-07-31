@@ -1,0 +1,7 @@
+- id: nbenumerate
+  name: nbenumerate
+  entry: nbenumerate
+  require_serial: true
+  language: python
+  types: [jupyter]
+  language_version: python3
