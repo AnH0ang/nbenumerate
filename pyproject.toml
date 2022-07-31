@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nbenumerate"
-version = "0.1.0"
+version = "0.2.0"
 description = "Automatically enumerate the markdown titles in jupyter notebooks"
 authors = ["An Hoang <anhoang31415@gmail.com>"]
 readme = "README.md"
