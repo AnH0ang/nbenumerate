@@ -34,7 +34,7 @@ Add this section to your `pre-commit-config.yaml` so that the `nbenumerate` scri
 
 ```yaml
 - repo: https://github.com/AnH0ang/nbenumerate
-  rev: 0.2.0
+  rev: 0.2.1
   hooks:
     - id: nbenumerate
       name: nbenumerate
